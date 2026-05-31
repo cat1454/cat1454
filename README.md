@@ -73,23 +73,6 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/cat1454/PhotoBoothChill">PhotoBoothChill</a></h3>
-      <p>
-        Web-first photobooth MVP with a Next.js app, NestJS REST API, Prisma schema,
-        PostgreSQL database, queue helpers, and photo processing worker.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js%2015-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js 15">
-        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS">
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma">
-        <img src="https://img.shields.io/badge/pg--boss-334155?style=flat-square" alt="pg-boss">
-        <img src="https://img.shields.io/badge/sharp-99CC00?style=flat-square" alt="sharp">
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3><a href="https://github.com/cat1454/PBL5">PBL5</a></h3>
       <p>
         Local-first learning MVP for document ingestion, OCR, AI analysis,
@@ -102,16 +85,22 @@
         <img src="https://img.shields.io/badge/AI%20Analysis-22C55E?style=flat-square" alt="AI Analysis">
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/cat1454/SmartPathLearn">SmartPathLearn</a></h3>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/vcongggggg/QLDA">TeamsWork / QLDA</a></h3>
       <p>
-        AI-powered learning platform concept that helps students review faster,
-        understand lessons, and follow personalized paths based on strengths and weaknesses.
+        Internal project operations platform for users, departments, RBAC, projects,
+        sprints, Kanban tasks, KPI tracking, reporting, Microsoft Teams workflows,
+        AI task breakdown, and RAG-backed project knowledge.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111" alt="JavaScript">
-        <img src="https://img.shields.io/badge/Personalized%20Learning-A855F7?style=flat-square" alt="Personalized Learning">
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+        <img src="https://img.shields.io/badge/RBAC-111827?style=flat-square" alt="RBAC">
+        <img src="https://img.shields.io/badge/KPI%20Reports-0EA5E9?style=flat-square" alt="KPI Reports">
+        <img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=flat-square&logo=microsoftteams&logoColor=white" alt="Microsoft Teams">
+        <img src="https://img.shields.io/badge/AI%20%2B%20RAG-22C55E?style=flat-square" alt="AI and RAG">
       </p>
     </td>
   </tr>
@@ -121,6 +110,8 @@
 
 | Project | Focus | Stack |
 |---|---|---|
+| [PhotoBoothChill](https://github.com/cat1454/PhotoBoothChill) | Web-first photobooth MVP with Next.js app, NestJS REST API, Prisma schema, PostgreSQL queue helpers, and photo processing worker. | Next.js 15, NestJS, TypeScript, PostgreSQL, Prisma |
+| [SmartPathLearn](https://github.com/cat1454/SmartPathLearn) | AI-powered learning platform concept for review support and personalized learning paths. | Python, JavaScript, HTML, CSS |
 | [OOAD Add Calendar Appointment](https://github.com/cat1454/OOAD_AddCalendarAppointment) | Google Calendar style Swing MVP for appointments, reminders, group meetings, validation, and H2 persistence. | Java, Swing, H2, MVP |
 | [Bai Tap Thuc Hanh LTM](https://github.com/cat1454/Bai_Tap_Thuc_Hanh_LTM) | TCP/UDP client-server networking practice with string processing, expression evaluation, chat room, and student CRUD. | Java, Swing, TCP/IP, UDP |
 | [Manage Cinema](https://github.com/cat1454/Manage-Cinema) | Cinema buying and management project. | PHP, CSS, JavaScript |
